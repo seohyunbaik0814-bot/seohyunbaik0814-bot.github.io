@@ -1,0 +1,8 @@
+title: 내 블로그
+description: 배운 것들을 기록합니다
+lang: ko
+timezone: Asia/Seoul
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
